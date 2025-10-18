@@ -11,7 +11,7 @@ for palabra in palabras:
         longitud = len(palabra)
 
 print("La palabra más larga es: ", palabra_larga)
-print("La longitud es: ", longitud) 
+print("La longitud es: ", longitud)
 
 #Crea un programa que determine si un número ingresado por el usuario es un número perfecto (la suma de sus divisores propios es igual al número).
 num = int(input("Ingrese el numero: "))
